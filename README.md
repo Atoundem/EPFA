@@ -1,2 +1,2 @@
 # EPFA
-Repository for EPFA software
+This Repository of EPFA software is dedicated to the non RCP version of the software
